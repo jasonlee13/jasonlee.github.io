@@ -21,8 +21,8 @@
 title: Jason Lee's Portfolio
 email: leejason@mit.edu
 #description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /jasonlee.github.io
+url: jasonlee.github.io
 linkedin_username: jasonlee0
 github_username:  jasonlee13
 
