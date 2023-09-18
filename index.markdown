@@ -9,7 +9,7 @@ title: About Me
 <link href="extra.css" rel="stylesheet">
 
 <span class="right">
-![](IMG_0292.jpg) 
+![](./assets/IMG_0292.jpg) 
 </span>
 
 <span class="t1"> Hello, I'm Jason Lee! I am a Master's student at MIT studying computer science and data science with a focus in machine learning.

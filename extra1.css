@@ -1,7 +1,11 @@
 .alignleft {
-    font-family: 'Palatino';
-    font-size: 12pt;
+    font-family: 'Baskerville';
+    font-size: 14pt;
     float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-weight: bold
 }
 
 .alignright {
@@ -19,14 +23,32 @@
     padding-right: 6px;
     background-color: #082472;
     box-shadow: 0px 0px 4px #082472;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-right: 30px;
   }
 
-.heading1 {
-    border: 10px;
+.heading1, .heading2, .heading3 {
+    border: 2px;
+    border-style: solid;
+    border-radius: 2px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-color: white;
+    box-shadow: 0px 0px 3px #082472;
+    background-color: #f6f6f6;
 }
 
 .t1 {
-    font-family: 'Palatino';
+    font-family: 'Baskerville';
     font-size: 12pt;
     margin-left: 20px;
+}
+
+.t2 {
+    font-family: 'Baskerville';
+    font-size: 12pt;
+    margin-left: 30px;
+    margin-top: 0px;
+    margin-bottom: 4px
 }
