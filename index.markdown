@@ -6,8 +6,21 @@ layout: home
 title: About Me
 ---
 
-Hello! I am a 4th-year undergraduate student at MIT double majoring in (1) Computer Science, Economics, & Data Science and (2) Business Analytics.
+<link href="extra.css" rel="stylesheet">
 
-On this website, you can find my current and past [work](http://localhost:4000/work_experience/) + [research](http://localhost:4000/r&d/) experiences. 
+<span class="right">
+![](IMG_0292.jpg) 
+</span>
 
-Feel free to contact me through my email: leejason at mit dot edu.
+<span class="t1"> Hello, I'm Jason Lee! I am a Master's student at MIT studying computer science and data science with a focus in machine learning.
+</span>
+
+<span class="t2"> I am originally from Orange County, CA but currently reside in Boston. I love to solve puzzles, build solutions, and connect with new people! 
+</span>
+
+<span class="t3"> On this site, you can find my current and past [work](http://localhost:4000/work_experience/) + [research](http://localhost:4000/r&d/) experiences. <br>
+</span>
+
+<br>
+<div class="t4"> Feel free to get in touch through my email: leejason <b>[at]</b> mit <b>[dot]</b> edu.
+</div>
